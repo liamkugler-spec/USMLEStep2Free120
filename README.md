@@ -1,0 +1,1 @@
+This is an HTML file. You can either copy and paste the code into a text file and save and run it in your browser of choice, or download my file and do the same. It contains an exam environment for the 2018 and 2021 USMLE Step 2 CK Free 120. There are no explanations, but you can review incorrects. 
